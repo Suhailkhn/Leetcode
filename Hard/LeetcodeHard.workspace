@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="LeetcodeHard" Database="" Version="10.0.0">
+  <Project Name="LargestRectangleInHistogram" Path="LargestRectangleInHistogram/LargestRectangleInHistogram.project" Active="No"/>
+  <Project Name="FirstMissingPositive" Path="FirstMissingPositive/FirstMissingPositive.project" Active="No"/>
+  <Project Name="LongestConsecutiveSequence" Path="LongestConsecutiveSequence/LongestConsecutiveSequence.project" Active="No"/>
+  <Project Name="SpiralMatrix" Path="SpiralMatrix/SpiralMatrix.project" Active="No"/>
+  <Project Name="SpiralMatrix2" Path="SpiralMatrix2/SpiralMatrix2.project" Active="No"/>
+  <Project Name="ProductOfArrayExceptSelf" Path="ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.project" Active="No"/>
+  <Project Name="DecodeWays" Path="DecodeWays/DecodeWays.project" Active="No"/>
+  <Project Name="LargestNumber" Path="LargestNumber/LargestNumber.project" Active="No"/>
+  <Project Name="KthSmallesElementSortedMatrix" Path="KthSmallesElementSortedMatrix/KthSmallesElementSortedMatrix.project" Active="No"/>
+  <Project Name="SlidingWindowMaximum" Path="SlidingWindowMaximim/SlidingWindowMaximim.project" Active="No"/>
+  <Project Name="EditDistance" Path="EditDistance/EditDistance.project" Active="No"/>
+  <Project Name="PaintHouse" Path="PaintHouse/PaintHouse.project" Active="No"/>
+  <Project Name="PaintFence" Path="PaintFence/PaintFence.project" Active="No"/>
+  <Project Name="MinimumWindowSubstring" Path="MinimumWindowSubstring/MinimumWindowSubstring.project" Active="No"/>
+  <Project Name="CoinChange2" Path="CoinChange2/CoinChange2.project" Active="No"/>
+  <Project Name="CoinChange" Path="CoinChange/CoinChange.project" Active="No"/>
+  <Project Name="LongestSubstrAtMostKDistinctChars" Path="LongestSubstrAtMostKDistinctChars/LongestSubstrAtMostKDistinctChars.project" Active="No"/>
+  <Project Name="SortList" Path="SortList/SortList.project" Active="No"/>
+  <Project Name="MergeKSortedLists" Path="MergeKSortedLists/MergeKSortedLists.project" Active="No"/>
+  <Project Name="MedianFromDataStream" Path="MedianFromDataStream/MedianFromDataStream.project" Active="No"/>
+  <Project Name="LRUCache" Path="LRUCache/LRUCache.project" Active="No"/>
+  <Project Name="SlidingWindowMedian" Path="SlidingWindowMedian/SlidingWindowMedian.project" Active="No"/>
+  <Project Name="LongestValidParenthesis" Path="LongestValidParenthesis/LongestValidParenthesis.project" Active="No"/>
+  <Project Name="PerfectSquares" Path="PerfectSquares/PerfectSquares.project" Active="No"/>
+  <Project Name="ValidParenthesesString" Path="ValidParenthesesString/ValidParenthesesString.project" Active="No"/>
+  <Project Name="MinAddToMakeParenthesesValid" Path="MinAddToMakeParenthesesValid/MinAddToMakeParenthesesValid.project" Active="No"/>
+  <Project Name="CopyListWithRandomPointer" Path="CopyListWithRandomPointer/CopyListWithRandomPointer.project" Active="No"/>
+  <Project Name="BinaryTreeMaximumPathSum" Path="BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="LargestRectangleInHistogram" ConfigName="Debug"/>
+      <Project Name="FirstMissingPositive" ConfigName="Debug"/>
+      <Project Name="LongestConsecutiveSequence" ConfigName="Debug"/>
+      <Project Name="SpiralMatrix" ConfigName="Debug"/>
+      <Project Name="SpiralMatrix2" ConfigName="Debug"/>
+      <Project Name="ProductOfArrayExceptSelf" ConfigName="Debug"/>
+      <Project Name="DecodeWays" ConfigName="Debug"/>
+      <Project Name="LargestNumber" ConfigName="Debug"/>
+      <Project Name="KthSmallesElementSortedMatrix" ConfigName="Debug"/>
+      <Project Name="SlidingWindowMaximum" ConfigName="Debug"/>
+      <Project Name="EditDistance" ConfigName="Debug"/>
+      <Project Name="PaintHouse" ConfigName="Debug"/>
+      <Project Name="PaintFence" ConfigName="Debug"/>
+      <Project Name="MinimumWindowSubstring" ConfigName="Debug"/>
+      <Project Name="CoinChange2" ConfigName="Debug"/>
+      <Project Name="CoinChange" ConfigName="Debug"/>
+      <Project Name="LongestSubstrAtMostKDistinctChars" ConfigName="Debug"/>
+      <Project Name="SortList" ConfigName="Debug"/>
+      <Project Name="MergeKSortedLists" ConfigName="Debug"/>
+      <Project Name="MedianFromDataStream" ConfigName="Debug"/>
+      <Project Name="LRUCache" ConfigName="Debug"/>
+      <Project Name="SlidingWindowMedian" ConfigName="Debug"/>
+      <Project Name="LongestValidParenthesis" ConfigName="Debug"/>
+      <Project Name="PerfectSquares" ConfigName="Debug"/>
+      <Project Name="ValidParenthesesString" ConfigName="Debug"/>
+      <Project Name="MinAddToMakeParenthesesValid" ConfigName="Debug"/>
+      <Project Name="CopyListWithRandomPointer" ConfigName="Debug"/>
+      <Project Name="BinaryTreeMaximumPathSum" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="LargestRectangleInHistogram" ConfigName="Release"/>
+      <Project Name="FirstMissingPositive" ConfigName="Release"/>
+      <Project Name="LongestConsecutiveSequence" ConfigName="Release"/>
+      <Project Name="SpiralMatrix" ConfigName="Release"/>
+      <Project Name="SpiralMatrix2" ConfigName="Release"/>
+      <Project Name="ProductOfArrayExceptSelf" ConfigName="Release"/>
+      <Project Name="DecodeWays" ConfigName="Release"/>
+      <Project Name="LargestNumber" ConfigName="Release"/>
+      <Project Name="KthSmallesElementSortedMatrix" ConfigName="Release"/>
+      <Project Name="SlidingWindowMaximum" ConfigName="Release"/>
+      <Project Name="EditDistance" ConfigName="Release"/>
+      <Project Name="PaintHouse" ConfigName="Release"/>
+      <Project Name="PaintFence" ConfigName="Release"/>
+      <Project Name="MinimumWindowSubstring" ConfigName="Release"/>
+      <Project Name="CoinChange2" ConfigName="Release"/>
+      <Project Name="CoinChange" ConfigName="Release"/>
+      <Project Name="LongestSubstrAtMostKDistinctChars" ConfigName="Release"/>
+      <Project Name="SortList" ConfigName="Release"/>
+      <Project Name="MergeKSortedLists" ConfigName="Release"/>
+      <Project Name="MedianFromDataStream" ConfigName="Release"/>
+      <Project Name="LRUCache" ConfigName="Release"/>
+      <Project Name="SlidingWindowMedian" ConfigName="Release"/>
+      <Project Name="LongestValidParenthesis" ConfigName="Release"/>
+      <Project Name="PerfectSquares" ConfigName="Release"/>
+      <Project Name="ValidParenthesesString" ConfigName="Release"/>
+      <Project Name="MinAddToMakeParenthesesValid" ConfigName="Release"/>
+      <Project Name="CopyListWithRandomPointer" ConfigName="Release"/>
+      <Project Name="BinaryTreeMaximumPathSum" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

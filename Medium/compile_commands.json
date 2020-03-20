@@ -1,0 +1,165 @@
+[{
+  "file": "D:\\LeetcodeMedium\\HouseRobber3\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\HouseRobber3",
+  "command": "clang  -c D:\\LeetcodeMedium\\HouseRobber3\\main.cpp -o D:\\LeetcodeMedium\\HouseRobber3\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\HouseRobber2\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\HouseRobber2",
+  "command": "clang  -c D:\\LeetcodeMedium\\HouseRobber2\\main.cpp -o D:\\LeetcodeMedium\\HouseRobber2\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\SortCharactersByFrequency\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\SortCharactersByFrequency",
+  "command": "clang  -c D:\\LeetcodeMedium\\SortCharactersByFrequency\\main.cpp -o D:\\LeetcodeMedium\\SortCharactersByFrequency\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\RightViewOfBinaryTree\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\RightViewOfBinaryTree",
+  "command": "clang  -c D:\\LeetcodeMedium\\RightViewOfBinaryTree\\main.cpp -o D:\\LeetcodeMedium\\RightViewOfBinaryTree\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\SortColours\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\SortColours",
+  "command": "clang  -c D:\\LeetcodeMedium\\SortColours\\main.cpp -o D:\\LeetcodeMedium\\SortColours\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\IntersectionOfLinkedLists\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\IntersectionOfLinkedLists",
+  "command": "clang  -c D:\\LeetcodeMedium\\IntersectionOfLinkedLists\\main.cpp -o D:\\LeetcodeMedium\\IntersectionOfLinkedLists\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\LongestPalindromicSubsequence\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\LongestPalindromicSubsequence",
+  "command": "clang  -c D:\\LeetcodeMedium\\LongestPalindromicSubsequence\\main.cpp -o D:\\LeetcodeMedium\\LongestPalindromicSubsequence\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\kthSmallestElementinBST\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\kthSmallestElementinBST",
+  "command": "clang  -c D:\\LeetcodeMedium\\kthSmallestElementinBST\\main.cpp -o D:\\LeetcodeMedium\\kthSmallestElementinBST\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\LongestSubstringWithoutRepeat\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\LongestSubstringWithoutRepeat",
+  "command": "clang  -c D:\\LeetcodeMedium\\LongestSubstringWithoutRepeat\\main.cpp -o D:\\LeetcodeMedium\\LongestSubstringWithoutRepeat\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\UniquePaths2\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\UniquePaths2",
+  "command": "clang  -c D:\\LeetcodeMedium\\UniquePaths2\\main.cpp -o D:\\LeetcodeMedium\\UniquePaths2\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\ZigzagLevelOrderTraversal\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\ZigzagLevelOrderTraversal",
+  "command": "clang  -c D:\\LeetcodeMedium\\ZigzagLevelOrderTraversal\\main.cpp -o D:\\LeetcodeMedium\\ZigzagLevelOrderTraversal\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\Triangle\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\Triangle",
+  "command": "clang  -c D:\\LeetcodeMedium\\Triangle\\main.cpp -o D:\\LeetcodeMedium\\Triangle\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\KFrequentElements\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\KFrequentElements",
+  "command": "clang  -c D:\\LeetcodeMedium\\KFrequentElements\\main.cpp -o D:\\LeetcodeMedium\\KFrequentElements\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\AddTwoNumbers\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\AddTwoNumbers",
+  "command": "clang  -c D:\\LeetcodeMedium\\AddTwoNumbers\\main.cpp -o D:\\LeetcodeMedium\\AddTwoNumbers\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\PopulatingNextRightPointers\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\PopulatingNextRightPointers",
+  "command": "clang  -c D:\\LeetcodeMedium\\PopulatingNextRightPointers\\main.cpp -o D:\\LeetcodeMedium\\PopulatingNextRightPointers\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\OddEvenLinkedList\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\OddEvenLinkedList",
+  "command": "clang  -c D:\\LeetcodeMedium\\OddEvenLinkedList\\main.cpp -o D:\\LeetcodeMedium\\OddEvenLinkedList\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\GroupAnagrams\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\GroupAnagrams",
+  "command": "clang  -c D:\\LeetcodeMedium\\GroupAnagrams\\main.cpp -o D:\\LeetcodeMedium\\GroupAnagrams\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\InorderTraversal\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\InorderTraversal",
+  "command": "clang  -c D:\\LeetcodeMedium\\InorderTraversal\\main.cpp -o D:\\LeetcodeMedium\\InorderTraversal\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\SetMatrixZeroes\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\SetMatrixZeroes",
+  "command": "clang  -c D:\\LeetcodeMedium\\SetMatrixZeroes\\main.cpp -o D:\\LeetcodeMedium\\SetMatrixZeroes\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\UniquePaths\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\UniquePaths",
+  "command": "clang  -c D:\\LeetcodeMedium\\UniquePaths\\main.cpp -o D:\\LeetcodeMedium\\UniquePaths\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\LongestPalindromicSubstring\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\LongestPalindromicSubstring",
+  "command": "clang  -c D:\\LeetcodeMedium\\LongestPalindromicSubstring\\main.cpp -o D:\\LeetcodeMedium\\LongestPalindromicSubstring\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\WordBreak2\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\WordBreak2",
+  "command": "clang  -c D:\\LeetcodeMedium\\WordBreak2\\main.cpp -o D:\\LeetcodeMedium\\WordBreak2\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\IncreasingTripletSubsequence\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\IncreasingTripletSubsequence",
+  "command": "clang  -c D:\\LeetcodeMedium\\IncreasingTripletSubsequence\\main.cpp -o D:\\LeetcodeMedium\\IncreasingTripletSubsequence\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\DeleteAndEarn\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\DeleteAndEarn",
+  "command": "clang  -c D:\\LeetcodeMedium\\DeleteAndEarn\\main.cpp -o D:\\LeetcodeMedium\\DeleteAndEarn\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\KthLargestElementInArray\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\KthLargestElementInArray",
+  "command": "clang  -c D:\\LeetcodeMedium\\KthLargestElementInArray\\main.cpp -o D:\\LeetcodeMedium\\KthLargestElementInArray\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\StackUsingQueue\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\StackUsingQueue",
+  "command": "clang  -c D:\\LeetcodeMedium\\StackUsingQueue\\main.cpp -o D:\\LeetcodeMedium\\StackUsingQueue\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\SearchForARange\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\SearchForARange",
+  "command": "clang  -c D:\\LeetcodeMedium\\SearchForARange\\main.cpp -o D:\\LeetcodeMedium\\SearchForARange\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\ConstructFromPreorderAndInorder\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\ConstructFromPreorderAndInorder",
+  "command": "clang  -c D:\\LeetcodeMedium\\ConstructFromPreorderAndInorder\\main.cpp -o D:\\LeetcodeMedium\\ConstructFromPreorderAndInorder\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\Search2DMatrix\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\Search2DMatrix",
+  "command": "clang  -c D:\\LeetcodeMedium\\Search2DMatrix\\main.cpp -o D:\\LeetcodeMedium\\Search2DMatrix\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\InsertIntoBST\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\InsertIntoBST",
+  "command": "clang  -c D:\\LeetcodeMedium\\InsertIntoBST\\main.cpp -o D:\\LeetcodeMedium\\InsertIntoBST\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\MergeIntervals\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\MergeIntervals",
+  "command": "clang  -c D:\\LeetcodeMedium\\MergeIntervals\\main.cpp -o D:\\LeetcodeMedium\\MergeIntervals\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\SearchRotatedArray\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\SearchRotatedArray",
+  "command": "clang  -c D:\\LeetcodeMedium\\SearchRotatedArray\\main.cpp -o D:\\LeetcodeMedium\\SearchRotatedArray\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\JumpGame\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\JumpGame",
+  "command": "clang  -c D:\\LeetcodeMedium\\JumpGame\\main.cpp -o D:\\LeetcodeMedium\\JumpGame\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\CoinChange\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\CoinChange",
+  "command": "clang  -c D:\\LeetcodeMedium\\CoinChange\\main.cpp -o D:\\LeetcodeMedium\\CoinChange\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\InsertDeleteGetRandom\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\InsertDeleteGetRandom",
+  "command": "clang  -c D:\\LeetcodeMedium\\InsertDeleteGetRandom\\main.cpp -o D:\\LeetcodeMedium\\InsertDeleteGetRandom\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\QueueUsingStack\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\QueueUsingStack",
+  "command": "clang  -c D:\\LeetcodeMedium\\QueueUsingStack\\main.cpp -o D:\\LeetcodeMedium\\QueueUsingStack\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\LongestIncreasingSubsequence\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\LongestIncreasingSubsequence",
+  "command": "clang  -c D:\\LeetcodeMedium\\LongestIncreasingSubsequence\\main.cpp -o D:\\LeetcodeMedium\\LongestIncreasingSubsequence\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\PeakElement\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\PeakElement",
+  "command": "clang  -c D:\\LeetcodeMedium\\PeakElement\\main.cpp -o D:\\LeetcodeMedium\\PeakElement\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\PartitionList\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\PartitionList",
+  "command": "clang  -c D:\\LeetcodeMedium\\PartitionList\\main.cpp -o D:\\LeetcodeMedium\\PartitionList\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\ReverseWordsInString\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\ReverseWordsInString",
+  "command": "clang  -c D:\\LeetcodeMedium\\ReverseWordsInString\\main.cpp -o D:\\LeetcodeMedium\\ReverseWordsInString\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\LeetcodeMedium\\WordBreak\\main.cpp",
+  "directory": "D:\\LeetcodeMedium\\WordBreak",
+  "command": "clang  -c D:\\LeetcodeMedium\\WordBreak\\main.cpp -o D:\\LeetcodeMedium\\WordBreak\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]

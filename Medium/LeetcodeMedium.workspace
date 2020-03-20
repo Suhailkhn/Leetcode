@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="LeetcodeMedium" Database="" Version="10.0.0">
+  <Project Name="SetMatrixZeroes" Path="SetMatrixZeroes/SetMatrixZeroes.project" Active="No"/>
+  <Project Name="GroupAnagrams" Path="GroupAnagrams/GroupAnagrams.project" Active="No"/>
+  <Project Name="LongestSubstringWithoutRepeat" Path="LongestSubstringWithoutRepeat/LongestSubstringWithoutRepeat.project" Active="No"/>
+  <Project Name="LongestPalindromicSubstring" Path="LongestPalindromicSubstring/LongestPalindromicSubstring.project" Active="No"/>
+  <Project Name="LongestPalindromicSubsequence" Path="LongestPalindromicSubsequence/LongestPalindromicSubsequence.project" Active="No"/>
+  <Project Name="IncreasingTripletSubsequence" Path="IncreasingTripletSubsequence/IncreasingTripletSubsequence.project" Active="No"/>
+  <Project Name="OddEvenLinkedList" Path="OddEvenLinkedList/OddEvenLinkedList.project" Active="No"/>
+  <Project Name="IntersectionOfLinkedLists" Path="IntersectionOfLinkedLists/IntersectionOfLinkedLists.project" Active="No"/>
+  <Project Name="AddTwoNumbers" Path="AddTwoNumbers/AddTwoNumbers.project" Active="No"/>
+  <Project Name="InorderTraversal" Path="InorderTraversal/InorderTraversal.project" Active="No"/>
+  <Project Name="PopulatingNextRightPointers" Path="PopulatingNextRightPointers/PopulatingNextRightPointers.project" Active="No"/>
+  <Project Name="ZigzagLevelOrderTraversal" Path="ZigzagLevelOrderTraversal/ZigzagLevelOrderTraversal.project" Active="No"/>
+  <Project Name="ConstructFromPreorderAndInorder" Path="ConstructFromPreorderAndInorder/ConstructFromPreorderAndInorder.project" Active="No"/>
+  <Project Name="kthSmallestElementinBST" Path="kthSmallestElementinBST/kthSmallestElementinBST.project" Active="No"/>
+  <Project Name="KFrequentElements" Path="KFrequentElements/KFrequentElements.project" Active="No"/>
+  <Project Name="SortColours" Path="SortColours/SortColours.project" Active="No"/>
+  <Project Name="KthLargestElementInArray" Path="KthLargestElementInArray/KthLargestElementInArray.project" Active="No"/>
+  <Project Name="PeakElement" Path="PeakElement/PeakElement.project" Active="No"/>
+  <Project Name="SearchForARange" Path="SearchForARange/SearchForARange.project" Active="No"/>
+  <Project Name="SearchRotatedArray" Path="SearchRotatedArray/SearchRotatedArray.project" Active="No"/>
+  <Project Name="Search2DMatrix" Path="Search2DMatrix/Search2DMatrix.project" Active="No"/>
+  <Project Name="MergeIntervals" Path="MergeIntervals/MergeIntervals.project" Active="No"/>
+  <Project Name="JumpGame" Path="JumpGame/JumpGame.project" Active="No"/>
+  <Project Name="UniquePaths" Path="UniquePaths/UniquePaths.project" Active="No"/>
+  <Project Name="UniquePaths2" Path="UniquePaths2/UniquePaths2.project" Active="No"/>
+  <Project Name="CoinChange" Path="CoinChange/CoinChange.project" Active="No"/>
+  <Project Name="PartitionList" Path="PartitionList/PartitionList.project" Active="No"/>
+  <Project Name="QueueUsingStack" Path="QueueUsingStack/QueueUsingStack.project" Active="No"/>
+  <Project Name="StackUsingQueue" Path="StackUsingQueue/StackUsingQueue.project" Active="No"/>
+  <Project Name="DeleteAndEarn" Path="DeleteAndEarn/DeleteAndEarn.project" Active="No"/>
+  <Project Name="InsertDeleteGetRandom" Path="InsertDeleteGetRandom/InsertDeleteGetRandom.project" Active="No"/>
+  <Project Name="InsertIntoBST" Path="InsertIntoBST/InsertIntoBST.project" Active="No"/>
+  <Project Name="Triangle" Path="Triangle/Triangle.project" Active="No"/>
+  <Project Name="LongestIncreasingSubsequence" Path="LongestIncreasingSubsequence/LongestIncreasingSubsequence.project" Active="No"/>
+  <Project Name="ReverseWordsInString" Path="ReverseWordsInString/ReverseWordsInString.project" Active="No"/>
+  <Project Name="WordBreak" Path="WordBreak/WordBreak.project" Active="No"/>
+  <Project Name="WordBreak2" Path="WordBreak2/WordBreak2.project" Active="No"/>
+  <Project Name="RightViewOfBinaryTree" Path="RightViewOfBinaryTree/RightViewOfBinaryTree.project" Active="No"/>
+  <Project Name="SortCharactersByFrequency" Path="SortCharactersByFrequency/SortCharactersByFrequency.project" Active="No"/>
+  <Project Name="HouseRobber2" Path="HouseRobber2/HouseRobber2.project" Active="No"/>
+  <Project Name="HouseRobber3" Path="HouseRobber3/HouseRobber3.project" Active="No"/>
+  <Project Name="PathSum2" Path="PathSum2/PathSum2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="SetMatrixZeroes" ConfigName="Debug"/>
+      <Project Name="GroupAnagrams" ConfigName="Debug"/>
+      <Project Name="LongestSubstringWithoutRepeat" ConfigName="Debug"/>
+      <Project Name="LongestPalindromicSubstring" ConfigName="Debug"/>
+      <Project Name="LongestPalindromicSubsequence" ConfigName="Debug"/>
+      <Project Name="IncreasingTripletSubsequence" ConfigName="Debug"/>
+      <Project Name="OddEvenLinkedList" ConfigName="Debug"/>
+      <Project Name="IntersectionOfLinkedLists" ConfigName="Debug"/>
+      <Project Name="AddTwoNumbers" ConfigName="Debug"/>
+      <Project Name="InorderTraversal" ConfigName="Debug"/>
+      <Project Name="PopulatingNextRightPointers" ConfigName="Debug"/>
+      <Project Name="ZigzagLevelOrderTraversal" ConfigName="Debug"/>
+      <Project Name="ConstructFromPreorderAndInorder" ConfigName="Debug"/>
+      <Project Name="kthSmallestElementinBST" ConfigName="Debug"/>
+      <Project Name="KFrequentElements" ConfigName="Debug"/>
+      <Project Name="SortColours" ConfigName="Debug"/>
+      <Project Name="KthLargestElementInArray" ConfigName="Debug"/>
+      <Project Name="PeakElement" ConfigName="Debug"/>
+      <Project Name="SearchForARange" ConfigName="Debug"/>
+      <Project Name="SearchRotatedArray" ConfigName="Debug"/>
+      <Project Name="Search2DMatrix" ConfigName="Debug"/>
+      <Project Name="MergeIntervals" ConfigName="Debug"/>
+      <Project Name="JumpGame" ConfigName="Debug"/>
+      <Project Name="UniquePaths" ConfigName="Debug"/>
+      <Project Name="UniquePaths2" ConfigName="Debug"/>
+      <Project Name="CoinChange" ConfigName="Debug"/>
+      <Project Name="PartitionList" ConfigName="Debug"/>
+      <Project Name="QueueUsingStack" ConfigName="Debug"/>
+      <Project Name="StackUsingQueue" ConfigName="Debug"/>
+      <Project Name="DeleteAndEarn" ConfigName="Debug"/>
+      <Project Name="InsertDeleteGetRandom" ConfigName="Debug"/>
+      <Project Name="InsertIntoBST" ConfigName="Debug"/>
+      <Project Name="Triangle" ConfigName="Debug"/>
+      <Project Name="LongestIncreasingSubsequence" ConfigName="Debug"/>
+      <Project Name="ReverseWordsInString" ConfigName="Debug"/>
+      <Project Name="WordBreak" ConfigName="Debug"/>
+      <Project Name="WordBreak2" ConfigName="Debug"/>
+      <Project Name="RightViewOfBinaryTree" ConfigName="Debug"/>
+      <Project Name="SortCharactersByFrequency" ConfigName="Debug"/>
+      <Project Name="HouseRobber2" ConfigName="Debug"/>
+      <Project Name="HouseRobber3" ConfigName="Debug"/>
+      <Project Name="PathSum2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="SetMatrixZeroes" ConfigName="Release"/>
+      <Project Name="GroupAnagrams" ConfigName="Release"/>
+      <Project Name="LongestSubstringWithoutRepeat" ConfigName="Release"/>
+      <Project Name="LongestPalindromicSubstring" ConfigName="Release"/>
+      <Project Name="LongestPalindromicSubsequence" ConfigName="Release"/>
+      <Project Name="IncreasingTripletSubsequence" ConfigName="Release"/>
+      <Project Name="OddEvenLinkedList" ConfigName="Release"/>
+      <Project Name="IntersectionOfLinkedLists" ConfigName="Release"/>
+      <Project Name="AddTwoNumbers" ConfigName="Release"/>
+      <Project Name="InorderTraversal" ConfigName="Release"/>
+      <Project Name="PopulatingNextRightPointers" ConfigName="Release"/>
+      <Project Name="ZigzagLevelOrderTraversal" ConfigName="Release"/>
+      <Project Name="ConstructFromPreorderAndInorder" ConfigName="Release"/>
+      <Project Name="kthSmallestElementinBST" ConfigName="Release"/>
+      <Project Name="KFrequentElements" ConfigName="Release"/>
+      <Project Name="SortColours" ConfigName="Release"/>
+      <Project Name="KthLargestElementInArray" ConfigName="Release"/>
+      <Project Name="PeakElement" ConfigName="Release"/>
+      <Project Name="SearchForARange" ConfigName="Release"/>
+      <Project Name="SearchRotatedArray" ConfigName="Release"/>
+      <Project Name="Search2DMatrix" ConfigName="Release"/>
+      <Project Name="MergeIntervals" ConfigName="Release"/>
+      <Project Name="JumpGame" ConfigName="Release"/>
+      <Project Name="UniquePaths" ConfigName="Release"/>
+      <Project Name="UniquePaths2" ConfigName="Release"/>
+      <Project Name="CoinChange" ConfigName="Release"/>
+      <Project Name="PartitionList" ConfigName="Release"/>
+      <Project Name="QueueUsingStack" ConfigName="Release"/>
+      <Project Name="StackUsingQueue" ConfigName="Release"/>
+      <Project Name="DeleteAndEarn" ConfigName="Release"/>
+      <Project Name="InsertDeleteGetRandom" ConfigName="Release"/>
+      <Project Name="InsertIntoBST" ConfigName="Release"/>
+      <Project Name="Triangle" ConfigName="Release"/>
+      <Project Name="LongestIncreasingSubsequence" ConfigName="Release"/>
+      <Project Name="ReverseWordsInString" ConfigName="Release"/>
+      <Project Name="WordBreak" ConfigName="Release"/>
+      <Project Name="WordBreak2" ConfigName="Release"/>
+      <Project Name="RightViewOfBinaryTree" ConfigName="Release"/>
+      <Project Name="SortCharactersByFrequency" ConfigName="Release"/>
+      <Project Name="HouseRobber2" ConfigName="Release"/>
+      <Project Name="HouseRobber3" ConfigName="Release"/>
+      <Project Name="PathSum2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

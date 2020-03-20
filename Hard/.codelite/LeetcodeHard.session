@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="D:\LeetcodeHard\LeetcodeHard.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="D:\LeetcodeHard\LeetcodeHard.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="D:\LeetcodeHard\BinaryTreeMaximumPathSum\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="44" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="19" Name="Count"/>
+    <SerializedObject Name="Breakpoint0">
+      <wxString Value="D:\LeetcodeHard\DecodeWays\main.cpp" Name="file"/>
+      <int Value="46" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint1">
+      <wxString Value="D:\LeetcodeHard\EditDistance\main.cpp" Name="file"/>
+      <int Value="10" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint2">
+      <wxString Value="D:\LeetcodeHard\EditDistance\main.cpp" Name="file"/>
+      <int Value="19" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint3">
+      <wxString Value="D:\LeetcodeHard\FirstMissingPositive\main.cpp" Name="file"/>
+      <int Value="19" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint4">
+      <wxString Value="D:\LeetcodeHard\FirstMissingPositive\main.cpp" Name="file"/>
+      <int Value="24" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint5">
+      <wxString Value="D:\LeetcodeHard\FirstMissingPositive\main.cpp" Name="file"/>
+      <int Value="28" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint6">
+      <wxString Value="D:\LeetcodeHard\FirstMissingPositive\main.cpp" Name="file"/>
+      <int Value="30" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint7">
+      <wxString Value="D:\LeetcodeHard\FirstMissingPositive\main.cpp" Name="file"/>
+      <int Value="32" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint8">
+      <wxString Value="D:\LeetcodeHard\KthSmallesElementSortedMatrix\main.cpp" Name="file"/>
+      <int Value="70" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint9">
+      <wxString Value="D:\LeetcodeHard\LRUCache\main.cpp" Name="file"/>
+      <int Value="35" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint10">
+      <wxString Value="D:\LeetcodeHard\LRUCache\main.cpp" Name="file"/>
+      <int Value="55" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint11">
+      <wxString Value="D:\LeetcodeHard\LongestValidParenthesis\main.cpp" Name="file"/>
+      <int Value="39" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint12">
+      <wxString Value="D:\LeetcodeHard\MinimumWindowSubstring\main.cpp" Name="file"/>
+      <int Value="33" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint13">
+      <wxString Value="D:\LeetcodeHard\PaintHouse\main.cpp" Name="file"/>
+      <int Value="36" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint14">
+      <wxString Value="D:\LeetcodeHard\PaintHouse\main.cpp" Name="file"/>
+      <int Value="47" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint15">
+      <wxString Value="D:\LeetcodeHard\SlidingWindowMedian\main.cpp" Name="file"/>
+      <int Value="6" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint16">
+      <wxString Value="D:\LeetcodeHard\SortList\main.cpp" Name="file"/>
+      <int Value="105" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint17">
+      <wxString Value="D:\LeetcodeHard\SortList\main.cpp" Name="file"/>
+      <int Value="90" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint18">
+      <wxString Value="D:\LeetcodeHard\SpiralMatrix\main.cpp" Name="file"/>
+      <int Value="23" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>

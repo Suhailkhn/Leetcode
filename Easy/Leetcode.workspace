@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Leetcode" Database="" Version="10.0.0">
+  <Project Name="Buy_Sell_Stock" Path="Buy_Sell_Stock/Buy_Sell_Stock.project" Active="No"/>
+  <Project Name="RotateArray" Path="RotateArray/RotateArray.project" Active="No"/>
+  <Project Name="ContainsDuplicate" Path="ContainsDuplicate/ContainsDuplicate.project" Active="No"/>
+  <Project Name="ContainsDuplicate2" Path="ContainsDuplicate2/ContainsDuplicate2.project" Active="No"/>
+  <Project Name="IntersectionOfTwoArrays" Path="IntersectionOfTwoArrays/IntersectionOfTwoArrays.project" Active="No"/>
+  <Project Name="MoveZeroes" Path="MoveZeroes/MoveZeroes.project" Active="No"/>
+  <Project Name="RotateImage" Path="RotateImage/RotateImage.project" Active="No"/>
+  <Project Name="ValidPalindrome" Path="ValidPalindrome/ValidPalindrome.project" Active="No"/>
+  <Project Name="ImplementStrstr" Path="ImplementStrstr/ImplementStrstr.project" Active="No"/>
+  <Project Name="LongestCommonPrefix" Path="LongestCommonPrefix/LongestCommonPrefix.project" Active="No"/>
+  <Project Name="StringToInteger" Path="StringToInteger/StringToInteger.project" Active="No"/>
+  <Project Name="DeleteNodeFromLinkedList" Path="DeleteNodeFromLinkedList/DeleteNodeFromLinkedList.project" Active="No"/>
+  <Project Name="RemoveNthNodeFromEndOfList" Path="RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.project" Active="No"/>
+  <Project Name="ReverseLinkedList" Path="ReverseLinkedList/ReverseLinkedList.project" Active="No"/>
+  <Project Name="MergeTwoSortedList" Path="MergeTwoSortedList/MergeTwoSortedList.project" Active="No"/>
+  <Project Name="PalindromeLinkedList" Path="PalindromeLinkedList/PalindromeLinkedList.project" Active="No"/>
+  <Project Name="LinkedListCycle" Path="LinkedListCycle/LinkedListCycle.project" Active="No"/>
+  <Project Name="MaximumDepthOfBinaryTree" Path="MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.project" Active="No"/>
+  <Project Name="ValidateBinarySearchTree" Path="ValidateBinarySearchTree/ValidateBinarySearchTree.project" Active="No"/>
+  <Project Name="SymmetricTree" Path="SymmetricTree/SymmetricTree.project" Active="No"/>
+  <Project Name="LevelOrderTraversal" Path="LevelOrderTraversal/LevelOrderTraversal.project" Active="No"/>
+  <Project Name="ConvertSortedArrayToBST" Path="ConvertSortedArrayToBST/ConvertSortedArrayToBST.project" Active="No"/>
+  <Project Name="NumberOf1Bits" Path="NumberOf1Bits/NumberOf1Bits.project" Active="No"/>
+  <Project Name="Reverse1Bits" Path="Reverse1Bits/Reverse1Bits.project" Active="No"/>
+  <Project Name="ValidParenthesis" Path="ValidParenthesis/ValidParenthesis.project" Active="No"/>
+  <Project Name="HammingDistance" Path="HammingDistance/HammingDistance.project" Active="No"/>
+  <Project Name="PascalTriangle" Path="PascalTriangle/PascalTriangle.project" Active="No"/>
+  <Project Name="MissingNumber" Path="MissingNumber/MissingNumber.project" Active="No"/>
+  <Project Name="FizzBuzz" Path="FizzBuzz/FizzBuzz.project" Active="No"/>
+  <Project Name="PowerOfThree" Path="PowerOfThree/PowerOfThree.project" Active="No"/>
+  <Project Name="ShuffleArray" Path="ShuffleArray/ShuffleArray.project" Active="No"/>
+  <Project Name="MinStack" Path="MinStack/MinStack.project" Active="No"/>
+  <Project Name="ClimbingStairs" Path="ClimbingStairs/ClimbingStairs.project" Active="No"/>
+  <Project Name="MaxSubArray" Path="MaxSubArray/MaxSubArray.project" Active="No"/>
+  <Project Name="HouseRobber" Path="HouseRobber/HouseRobber.project" Active="No"/>
+  <Project Name="3Sum" Path="3Sum/3Sum.project" Active="No"/>
+  <Project Name="3SumBetter" Path="3SumBetter/3SumBetter.project" Active="No"/>
+  <Project Name="LowestCommonAncestor" Path="LowestCommonAncestor/LowestCommonAncestor.project" Active="No"/>
+  <Project Name="ExcelColumnNumber" Path="ExcelColumnNumber/ExcelColumnNumber.project" Active="No"/>
+  <Project Name="DisappearedNumbers" Path="DisappearedNumbers/DisappearedNumbers.project" Active="No"/>
+  <Project Name="RemoveDuplicatesFromSortedArray" Path="RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.project" Active="No"/>
+  <Project Name="RemoveElement" Path="RemoveElement/RemoveElement.project" Active="No"/>
+  <Project Name="DegreeOfAnArray" Path="DegreeOfAnArray/DegreeOfAnArray.project" Active="No"/>
+  <Project Name="PlusOne" Path="PlusOne/PlusOne.project" Active="No"/>
+  <Project Name="AddToArrayFormOfInteger" Path="AddToArrayFormOfInteger/AddToArrayFormOfInteger.project" Active="No"/>
+  <Project Name="ReverseInteger" Path="ReverseInteger/ReverseInteger.project" Active="No"/>
+  <Project Name="CountPrimes" Path="CountPrimes/CountPrimes.project" Active="No"/>
+  <Project Name="PartitionArrayIntoThreePartsWithEqualSum" Path="PartitionArrayIntoThreePartsWithEqualSum/PartitionArrayIntoThreePartsWithEqualSum.project" Active="No"/>
+  <Project Name="RottingOranges" Path="RottingOranges/RottingOranges.project" Active="No"/>
+  <Project Name="PathSum" Path="PathSum/PathSum.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Buy_Sell_Stock" ConfigName="Debug"/>
+      <Project Name="RotateArray" ConfigName="Debug"/>
+      <Project Name="ContainsDuplicate" ConfigName="Debug"/>
+      <Project Name="ContainsDuplicate2" ConfigName="Debug"/>
+      <Project Name="IntersectionOfTwoArrays" ConfigName="Debug"/>
+      <Project Name="MoveZeroes" ConfigName="Debug"/>
+      <Project Name="RotateImage" ConfigName="Debug"/>
+      <Project Name="ValidPalindrome" ConfigName="Debug"/>
+      <Project Name="ImplementStrstr" ConfigName="Debug"/>
+      <Project Name="LongestCommonPrefix" ConfigName="Debug"/>
+      <Project Name="StringToInteger" ConfigName="Debug"/>
+      <Project Name="DeleteNodeFromLinkedList" ConfigName="Debug"/>
+      <Project Name="RemoveNthNodeFromEndOfList" ConfigName="Debug"/>
+      <Project Name="ReverseLinkedList" ConfigName="Debug"/>
+      <Project Name="MergeTwoSortedList" ConfigName="Debug"/>
+      <Project Name="PalindromeLinkedList" ConfigName="Debug"/>
+      <Project Name="LinkedListCycle" ConfigName="Debug"/>
+      <Project Name="MaximumDepthOfBinaryTree" ConfigName="Debug"/>
+      <Project Name="ValidateBinarySearchTree" ConfigName="Debug"/>
+      <Project Name="SymmetricTree" ConfigName="Debug"/>
+      <Project Name="LevelOrderTraversal" ConfigName="Debug"/>
+      <Project Name="ConvertSortedArrayToBST" ConfigName="Debug"/>
+      <Project Name="NumberOf1Bits" ConfigName="Debug"/>
+      <Project Name="Reverse1Bits" ConfigName="Debug"/>
+      <Project Name="ValidParenthesis" ConfigName="Debug"/>
+      <Project Name="HammingDistance" ConfigName="Debug"/>
+      <Project Name="PascalTriangle" ConfigName="Debug"/>
+      <Project Name="MissingNumber" ConfigName="Debug"/>
+      <Project Name="FizzBuzz" ConfigName="Debug"/>
+      <Project Name="PowerOfThree" ConfigName="Debug"/>
+      <Project Name="ShuffleArray" ConfigName="Debug"/>
+      <Project Name="MinStack" ConfigName="Debug"/>
+      <Project Name="ClimbingStairs" ConfigName="Debug"/>
+      <Project Name="MaxSubArray" ConfigName="Debug"/>
+      <Project Name="HouseRobber" ConfigName="Debug"/>
+      <Project Name="3Sum" ConfigName="Debug"/>
+      <Project Name="3SumBetter" ConfigName="Debug"/>
+      <Project Name="LowestCommonAncestor" ConfigName="Debug"/>
+      <Project Name="ExcelColumnNumber" ConfigName="Debug"/>
+      <Project Name="DisappearedNumbers" ConfigName="Debug"/>
+      <Project Name="RemoveDuplicatesFromSortedArray" ConfigName="Debug"/>
+      <Project Name="RemoveElement" ConfigName="Debug"/>
+      <Project Name="DegreeOfAnArray" ConfigName="Debug"/>
+      <Project Name="PlusOne" ConfigName="Debug"/>
+      <Project Name="AddToArrayFormOfInteger" ConfigName="Debug"/>
+      <Project Name="ReverseInteger" ConfigName="Debug"/>
+      <Project Name="CountPrimes" ConfigName="Debug"/>
+      <Project Name="PartitionArrayIntoThreePartsWithEqualSum" ConfigName="Debug"/>
+      <Project Name="RottingOranges" ConfigName="Debug"/>
+      <Project Name="PathSum" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Buy_Sell_Stock" ConfigName="Release"/>
+      <Project Name="RotateArray" ConfigName="Release"/>
+      <Project Name="ContainsDuplicate" ConfigName="Release"/>
+      <Project Name="ContainsDuplicate2" ConfigName="Release"/>
+      <Project Name="IntersectionOfTwoArrays" ConfigName="Release"/>
+      <Project Name="MoveZeroes" ConfigName="Release"/>
+      <Project Name="RotateImage" ConfigName="Release"/>
+      <Project Name="ValidPalindrome" ConfigName="Release"/>
+      <Project Name="ImplementStrstr" ConfigName="Release"/>
+      <Project Name="LongestCommonPrefix" ConfigName="Release"/>
+      <Project Name="StringToInteger" ConfigName="Release"/>
+      <Project Name="DeleteNodeFromLinkedList" ConfigName="Release"/>
+      <Project Name="RemoveNthNodeFromEndOfList" ConfigName="Release"/>
+      <Project Name="ReverseLinkedList" ConfigName="Release"/>
+      <Project Name="MergeTwoSortedList" ConfigName="Release"/>
+      <Project Name="PalindromeLinkedList" ConfigName="Release"/>
+      <Project Name="LinkedListCycle" ConfigName="Release"/>
+      <Project Name="MaximumDepthOfBinaryTree" ConfigName="Release"/>
+      <Project Name="ValidateBinarySearchTree" ConfigName="Release"/>
+      <Project Name="SymmetricTree" ConfigName="Release"/>
+      <Project Name="LevelOrderTraversal" ConfigName="Release"/>
+      <Project Name="ConvertSortedArrayToBST" ConfigName="Release"/>
+      <Project Name="NumberOf1Bits" ConfigName="Release"/>
+      <Project Name="Reverse1Bits" ConfigName="Release"/>
+      <Project Name="ValidParenthesis" ConfigName="Release"/>
+      <Project Name="HammingDistance" ConfigName="Release"/>
+      <Project Name="PascalTriangle" ConfigName="Release"/>
+      <Project Name="MissingNumber" ConfigName="Release"/>
+      <Project Name="FizzBuzz" ConfigName="Release"/>
+      <Project Name="PowerOfThree" ConfigName="Release"/>
+      <Project Name="ShuffleArray" ConfigName="Release"/>
+      <Project Name="MinStack" ConfigName="Release"/>
+      <Project Name="ClimbingStairs" ConfigName="Release"/>
+      <Project Name="MaxSubArray" ConfigName="Release"/>
+      <Project Name="HouseRobber" ConfigName="Release"/>
+      <Project Name="3Sum" ConfigName="Release"/>
+      <Project Name="3SumBetter" ConfigName="Release"/>
+      <Project Name="LowestCommonAncestor" ConfigName="Release"/>
+      <Project Name="ExcelColumnNumber" ConfigName="Release"/>
+      <Project Name="DisappearedNumbers" ConfigName="Release"/>
+      <Project Name="RemoveDuplicatesFromSortedArray" ConfigName="Release"/>
+      <Project Name="RemoveElement" ConfigName="Release"/>
+      <Project Name="DegreeOfAnArray" ConfigName="Release"/>
+      <Project Name="PlusOne" ConfigName="Release"/>
+      <Project Name="AddToArrayFormOfInteger" ConfigName="Release"/>
+      <Project Name="ReverseInteger" ConfigName="Release"/>
+      <Project Name="CountPrimes" ConfigName="Release"/>
+      <Project Name="PartitionArrayIntoThreePartsWithEqualSum" ConfigName="Release"/>
+      <Project Name="RottingOranges" ConfigName="Release"/>
+      <Project Name="PathSum" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
